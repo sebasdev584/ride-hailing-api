@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "node --watch index.js",
-    "build": "node index.js",
+    "start": "node index.js",
     "tests": "node --test"
   },
   "keywords": [],
